@@ -1,7 +1,7 @@
 # TBWC // Autonomous Control Firmware 🦾
 
 > **Embedded C++ Navigation & Motor Control for an Autonomous Mobility Rover**  
-> *Built for ENGG\*1100 Engineering & Design I — Section 03, Team 04*
+
 
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20Uno-00979D?logo=arduino&logoColor=white) ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![Driver](https://img.shields.io/badge/Driver-Paralleled%20L298N-red) ![Sensor](https://img.shields.io/badge/Sensor-HC--SR04%20Ultrasonic-purple)
 
